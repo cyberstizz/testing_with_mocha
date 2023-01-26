@@ -17,4 +17,4 @@ in asserstion library.
 
 should be short sweet and simple.
 
-### for more projects by CyberStizz visit: [Charleslambjr.com](www.charleslambjr.com)
+### for more projects by CyberStizz visit: [Charleslambjr.com](https://www.charleslambjr.com/)
