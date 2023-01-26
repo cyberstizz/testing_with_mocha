@@ -7,6 +7,8 @@
 * Mocha
 * Chai
 
+
+### Synopsis
 I always see tests written  in other frameworks mainly Jest. I have nothing against
 Jest, but I just wanted to try something else out for size. Besides Mocha is a
 very cool name in my book.
@@ -30,7 +32,8 @@ the describe block starts with the string returnString. returnString is the firs
  * the first two tests are assertions which declare that the returnString function should return a string and be a string
  * the third test tests that the multiply function will acutally multiply inputs. So inside of the test I create two variables with random numbers and put those numbers into the multiply function.
 
- ### all three tests work, so I performed my happy dance. thanks for coming. happy coding!
+### final thought
+#### all three tests work, so I performed my happy dance. thanks for coming. happy coding!
 
 
 ### for more projects by CyberStizz visit: [Charleslambjr.com](https://www.charleslambjr.com/)
