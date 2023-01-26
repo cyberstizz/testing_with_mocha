@@ -1,7 +1,6 @@
 # **Mocha project**
 
-## _this is just a brief project created to write sample_
-## _tests with Mocha and Chai as a nice little bonus!_
+## _this is just a brief project created to write sample tests with Mocha and Chai as a nice little bonus!_
 
 ### this project includes
 * Node js
