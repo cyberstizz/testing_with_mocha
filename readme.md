@@ -1,4 +1,4 @@
-#**Mocha project**
+# **Mocha project**
 
 ## _this is just a brief project created to write sample_
 ## _tests with Mocha and Chai as a nice little bonus!_
