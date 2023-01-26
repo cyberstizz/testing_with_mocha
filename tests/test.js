@@ -7,6 +7,6 @@ describe('App', () => {
 //inside of this describe there is an it function to test a particular feature
     it('App should return hello', () => {
 
-
-    })
-})
+        assert.equal(app(), 'hello')
+    });
+});
