@@ -15,7 +15,7 @@ describe('returnString', () => {
 //second test to verify that the return type is a string
     it('has the return type of string', () => {
 
-        assert.isString(app())
+        assert.isString(returnString())
     });
 
 });
